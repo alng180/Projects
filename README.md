@@ -1,2 +1,2 @@
 # Projects
-A place for random programs/projects
+A place for random programs/projects that I've done
